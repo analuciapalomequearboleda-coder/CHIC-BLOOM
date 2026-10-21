@@ -1,0 +1,6 @@
+{
+  "name": "CHIC BLOOM - Moda Urbana Femenina & Juvenil",
+  "description": "Tienda online de moda urbana femenina y juvenil en Colombia. Bodys, corsets, vestidos juveniles, faldas tablonadas y cargo en tendencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
